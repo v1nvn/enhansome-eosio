@@ -101,7 +101,7 @@ Various software and tools.
 * [Anchor Wallet](https://greymass.com/en/anchor/)
   * [greymass/anchor](https://github.com/greymass/anchor) ⭐ 591 | 🐛 260 | 🌐 JavaScript | 📅 2025-12-10 - Official GitHub.
 * [Scatter](https://get-scatter.com/)
-  * [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) ⭐ 499 | 🐛 149 | 🌐 JavaScript | 📅 2024-07-22 - Official GitHub.
+  * [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) ⭐ 500 | 🐛 149 | 🌐 JavaScript | 📅 2024-07-22 - Official GitHub.
 * [SimplEOS](https://eosrio.io/simpleos/)
   * [eosrio/simpleos](https://github.com/eosrio/simpleos) ⭐ 161 | 🐛 67 | 🌐 TypeScript | 📅 2023-01-06 - Official GitHub.
 * [eoscanada/eosc](https://github.com/eoscanada/eosc) ⭐ 134 | 🐛 51 | 🌐 Go | 📅 2025-05-15
