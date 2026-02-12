@@ -101,7 +101,7 @@ Various software and tools.
 * [Anchor Wallet](https://greymass.com/en/anchor/)
   * [greymass/anchor](https://github.com/greymass/anchor) ⭐ 591 | 🐛 260 | 🌐 JavaScript | 📅 2025-12-10 - Official GitHub.
 * [Scatter](https://get-scatter.com/)
-  * [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) ⭐ 500 | 🐛 149 | 🌐 JavaScript | 📅 2024-07-22 - Official GitHub.
+  * [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) ⭐ 499 | 🐛 149 | 🌐 JavaScript | 📅 2024-07-22 - Official GitHub.
 * [SimplEOS](https://eosrio.io/simpleos/)
   * [eosrio/simpleos](https://github.com/eosrio/simpleos) ⭐ 161 | 🐛 67 | 🌐 TypeScript | 📅 2023-01-06 - Official GitHub.
 * [eoscanada/eosc](https://github.com/eoscanada/eosc) ⭐ 134 | 🐛 51 | 🌐 Go | 📅 2025-05-15
@@ -234,7 +234,7 @@ All about development on EOSIO platform.
 
 #### Services
 
-* [Demux](https://github.com/EOSIO/demux-js) ⭐ 303 | 🐛 29 | 🌐 TypeScript | 📅 2023-07-18 - Demux is a backend infrastructure pattern for sourcing blockchain events to deterministically update queryable datastores and trigger side effects.
+* [Demux](https://github.com/EOSIO/demux-js) ⭐ 302 | 🐛 29 | 🌐 TypeScript | 📅 2023-07-18 - Demux is a backend infrastructure pattern for sourcing blockchain events to deterministically update queryable datastores and trigger side effects.
 * [DelphiOracle](https://github.com/eostitan/delphioracle) ⭐ 41 | 🐛 10 | 🌐 C++ | 📅 2023-10-26 - A multi-party source of truth, designed to provide the near-realtime price of the asset pairs to other smart contracts or to external users.
 * [Introducing Demux — Deterministic Databases Off-Chain Verified by the EOSIO Blockchain](https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017) - Article.
 * [Liquid Apps](https://docs.liquidapps.io) - Smart contract services vRAM, oracles, cron, IPFS and ICB.
@@ -361,6 +361,6 @@ DApp resources.
 
 ### Other in DApps
 
-* [EveripediaNetwork/Everipedia](https://github.com/EveripediaNetwork/Everipedia) ⭐ 153 | 🐛 0 | 🌐 C++ | 📅 2023-02-28 - The Everipedia Network protocol.
+* [EveripediaNetwork/Everipedia](https://github.com/EveripediaNetwork/Everipedia) ⭐ 152 | 🐛 0 | 🌐 C++ | 📅 2023-02-28 - The Everipedia Network protocol.
 * [eosfilestore](https://github.com/grigio/eosfilestore) ⭐ 45 | 🐛 8 | 🌐 WebAssembly | 📅 2023-02-28 - Immutable, censorship resistant, cheap, file storage on EOSIO blockchain.
 * [kesar/decentwitter](https://github.com/kesar/decentwitter) ⭐ 37 | 🐛 20 | 🌐 WebAssembly | 📅 2022-12-08 - Decentralized Twitter on EOS.
