@@ -61,7 +61,7 @@ EOSIO learning resources.
 ### Websites
 
 * [EOSIO Developer Portal](https://developers.eos.io/) - A great place to begin your EOSIO blockchain journey.
-* [EOS Smart Contract Development Security Best Practices](https://github.com/slowmist/eos-smart-contract-security-best-practices/blob/master/README_EN.md) ⭐ 393 | 🐛 0 | 📅 2025-07-31
+* [EOS Smart Contract Development Security Best Practices](https://github.com/slowmist/eos-smart-contract-security-best-practices/blob/master/README_EN.md) ⭐ 392 | 🐛 0 | 📅 2025-07-31
 * [EOS Learning Resources - EOS Costa Rica](https://guide.eoscostarica.io/)
 * [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
 
