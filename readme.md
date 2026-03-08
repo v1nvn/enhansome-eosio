@@ -99,7 +99,7 @@ Various software and tools.
 * [cleos](https://developers.eos.io/eosio-cleos/docs)
   * [EOSIO/eos](https://github.com/EOSIO/eos/tree/master/programs/cleos) ⚠️ Archived - Official GitHub (part of EOSIO).
 * [Anchor Wallet](https://greymass.com/en/anchor/)
-  * [greymass/anchor](https://github.com/greymass/anchor) ⭐ 591 | 🐛 260 | 🌐 JavaScript | 📅 2025-12-10 - Official GitHub.
+  * [greymass/anchor](https://github.com/greymass/anchor) ⭐ 590 | 🐛 260 | 🌐 JavaScript | 📅 2025-12-10 - Official GitHub.
 * [Scatter](https://get-scatter.com/)
   * [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) ⭐ 499 | 🐛 149 | 🌐 JavaScript | 📅 2024-07-22 - Official GitHub.
 * [SimplEOS](https://eosrio.io/simpleos/)
@@ -181,7 +181,7 @@ All about development on EOSIO platform.
 #### API libraries
 
 * [EOSIO/eosjs](https://github.com/EOSIO/eosjs) ⚠️ Archived - Official JavaScript SDK.
-* [EOS.IO Go API library](https://github.com/eoscanada/eos-go) ⭐ 557 | 🐛 22 | 🌐 Go | 📅 2024-10-29 - Go library.
+* [EOS.IO Go API library](https://github.com/eoscanada/eos-go) ⭐ 556 | 🐛 22 | 🌐 Go | 📅 2024-10-29 - Go library.
 * [EOS Java API Wrapper](https://github.com/EOSEssentials/eos-java-rpc-wrapper) ⭐ 162 | 🐛 12 | 🌐 Java | 📅 2020-10-13 - Java library.
 * [EOSIO/eosio-java](https://github.com/EOSIO/eosio-java) ⚠️ Archived - Official Java SDK.
   * [eosiojava API](https://eosio.github.io/eosio-java/) - API documentation.
@@ -201,7 +201,7 @@ All about development on EOSIO platform.
 
 #### Authentication and Wallet Signing libraries
 
-* [EOSIO/universal-authenticator-library](https://github.com/EOSIO/universal-authenticator-library) ⭐ 128 | 🐛 17 | 🌐 TypeScript | 📅 2023-04-30 - A library for allowing apps to easily use different auth providers.
+* [EOSIO/universal-authenticator-library](https://github.com/EOSIO/universal-authenticator-library) ⭐ 129 | 🐛 17 | 🌐 TypeScript | 📅 2023-04-30 - A library for allowing apps to easily use different auth providers.
   * [EOSIO Labs™ Release: The Universal Authenticator Library (UAL) — Increasing the Accessibility of Blockchain Applications](https://eos.io/news/eosio-labs-release-the-universal-authenticator-library-ual%e2%80%8a-%e2%80%8aincreasing-the-accessibility-of-blockchain-applications/) - Article.
 * [EOSIO/eosio-reference-ios-authenticator-app](https://github.com/EOSIO/eosio-reference-ios-authenticator-app) ⭐ 66 | 🐛 2 | 🌐 Swift | 📅 2022-09-21 - iOS reference app demonstrating inter-application transaction signing for EOSIO blockchain apps.
 * [greymass/anchor-link](https://github.com/greymass/anchor-link) ⭐ 53 | 🐛 8 | 🌐 TypeScript | 📅 2024-04-10 - Persistent, fast and secure signature provider for EOSIO chains built on top of EOSIO Signing Requests (EEP-7).
@@ -219,7 +219,7 @@ All about development on EOSIO platform.
 
 [Intro blog by @cc32d9](https://cc32d9.medium.com/history-and-notifications-in-eosio-blockchain-8255194af93)
 
-* [Hyperion History API](https://github.com/eosrio/Hyperion-History-API) ⭐ 133 | 🐛 22 | 🌐 TypeScript | 📅 2025-11-04 - Scalable Full History API Solution for EOSIO based blockchains.
+* [Hyperion History API](https://github.com/eosrio/Hyperion-History-API) ⭐ 132 | 🐛 22 | 🌐 TypeScript | 📅 2025-11-04 - Scalable Full History API Solution for EOSIO based blockchains.
 * [EOSIO/history-tools](https://github.com/EOSIO/history-tools) ⚠️ Archived - Official EOSIO history API plugin.
 * [EOSIO Light API](https://github.com/cc32d9/eosio_light_api) ⭐ 60 | 🐛 10 | 🌐 Perl | 📅 2025-10-31 - Historic information about EOSIO blockchain accounts and token balances.
 
@@ -234,7 +234,7 @@ All about development on EOSIO platform.
 
 #### Services
 
-* [Demux](https://github.com/EOSIO/demux-js) ⭐ 301 | 🐛 29 | 🌐 TypeScript | 📅 2023-07-18 - Demux is a backend infrastructure pattern for sourcing blockchain events to deterministically update queryable datastores and trigger side effects.
+* [Demux](https://github.com/EOSIO/demux-js) ⭐ 300 | 🐛 29 | 🌐 TypeScript | 📅 2023-07-18 - Demux is a backend infrastructure pattern for sourcing blockchain events to deterministically update queryable datastores and trigger side effects.
 * [DelphiOracle](https://github.com/eostitan/delphioracle) ⭐ 41 | 🐛 10 | 🌐 C++ | 📅 2023-10-26 - A multi-party source of truth, designed to provide the near-realtime price of the asset pairs to other smart contracts or to external users.
 * [Introducing Demux — Deterministic Databases Off-Chain Verified by the EOSIO Blockchain](https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017) - Article.
 * [Liquid Apps](https://docs.liquidapps.io) - Smart contract services vRAM, oracles, cron, IPFS and ICB.
