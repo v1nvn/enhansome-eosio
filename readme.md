@@ -99,11 +99,11 @@ Various software and tools.
 * [cleos](https://developers.eos.io/eosio-cleos/docs)
   * [EOSIO/eos](https://github.com/EOSIO/eos/tree/master/programs/cleos) ⚠️ Archived - Official GitHub (part of EOSIO).
 * [Anchor Wallet](https://greymass.com/en/anchor/)
-  * [greymass/anchor](https://github.com/greymass/anchor) ⭐ 590 | 🐛 260 | 🌐 JavaScript | 📅 2025-12-10 - Official GitHub.
+  * [greymass/anchor](https://github.com/greymass/anchor) ⭐ 589 | 🐛 260 | 🌐 JavaScript | 📅 2025-12-10 - Official GitHub.
 * [Scatter](https://get-scatter.com/)
   * [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) ⭐ 499 | 🐛 149 | 🌐 JavaScript | 📅 2024-07-22 - Official GitHub.
 * [SimplEOS](https://eosrio.io/simpleos/)
-  * [eosrio/simpleos](https://github.com/eosrio/simpleos) ⭐ 161 | 🐛 67 | 🌐 TypeScript | 📅 2023-01-06 - Official GitHub.
+  * [eosrio/simpleos](https://github.com/eosrio/simpleos) ⭐ 159 | 🐛 67 | 🌐 TypeScript | 📅 2023-01-06 - Official GitHub.
 * [eoscanada/eosc](https://github.com/eoscanada/eosc) ⭐ 134 | 🐛 51 | 🌐 Go | 📅 2025-05-15
 * [EOS Toolkit](https://eostoolkit.io/)
   * [eostoolkit/eostoolkit](https://github.com/eostoolkit/eostoolkit) ⭐ 89 | 🐛 28 | 🌐 JavaScript | 📅 2022-12-14 - Official GitHub.
@@ -181,7 +181,7 @@ All about development on EOSIO platform.
 #### API libraries
 
 * [EOSIO/eosjs](https://github.com/EOSIO/eosjs) ⚠️ Archived - Official JavaScript SDK.
-* [EOS.IO Go API library](https://github.com/eoscanada/eos-go) ⭐ 556 | 🐛 22 | 🌐 Go | 📅 2024-10-29 - Go library.
+* [EOS.IO Go API library](https://github.com/eoscanada/eos-go) ⭐ 555 | 🐛 22 | 🌐 Go | 📅 2024-10-29 - Go library.
 * [EOS Java API Wrapper](https://github.com/EOSEssentials/eos-java-rpc-wrapper) ⭐ 162 | 🐛 12 | 🌐 Java | 📅 2020-10-13 - Java library.
 * [EOSIO/eosio-java](https://github.com/EOSIO/eosio-java) ⚠️ Archived - Official Java SDK.
   * [eosiojava API](https://eosio.github.io/eosio-java/) - API documentation.
