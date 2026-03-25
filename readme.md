@@ -182,7 +182,7 @@ All about development on EOSIO platform.
 
 * [EOSIO/eosjs](https://github.com/EOSIO/eosjs) ⚠️ Archived - Official JavaScript SDK.
 * [EOS.IO Go API library](https://github.com/eoscanada/eos-go) ⭐ 555 | 🐛 22 | 🌐 Go | 📅 2024-10-29 - Go library.
-* [EOS Java API Wrapper](https://github.com/EOSEssentials/eos-java-rpc-wrapper) ⭐ 162 | 🐛 12 | 🌐 Java | 📅 2020-10-13 - Java library.
+* [EOS Java API Wrapper](https://github.com/EOSEssentials/eos-java-rpc-wrapper) ⭐ 163 | 🐛 12 | 🌐 Java | 📅 2020-10-13 - Java library.
 * [EOSIO/eosio-java](https://github.com/EOSIO/eosio-java) ⚠️ Archived - Official Java SDK.
   * [eosiojava API](https://eosio.github.io/eosio-java/) - API documentation.
   * [EOSIO™ Software Release: Native SDKs for Swift and Java](https://eos.io/news/eosio-software-release-native-sdks-for-swift-and-java/) - Article.
