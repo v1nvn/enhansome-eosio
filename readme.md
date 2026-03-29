@@ -176,7 +176,7 @@ All about development on EOSIO platform.
 #### Core
 
 * [EOSIO/eos](https://github.com/EOSIO/eos) ⚠️ Archived - Official EOSIO GitHub repository.
-* [EOSIO/eos-vm](https://github.com/EOSIO/eos-vm) ⭐ 200 | 🐛 30 | 🌐 C++ | 📅 2023-07-13 - A Low-Latency, High Performance and Extensible WebAssembly Backend Library.
+* [EOSIO/eos-vm](https://github.com/EOSIO/eos-vm) ⭐ 201 | 🐛 30 | 🌐 C++ | 📅 2023-07-13 - A Low-Latency, High Performance and Extensible WebAssembly Backend Library.
 
 #### API libraries
 
