@@ -103,7 +103,7 @@ Various software and tools.
 * [Scatter](https://get-scatter.com/)
   * [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) ⭐ 499 | 🐛 149 | 🌐 JavaScript | 📅 2024-07-22 - Official GitHub.
 * [SimplEOS](https://eosrio.io/simpleos/)
-  * [eosrio/simpleos](https://github.com/eosrio/simpleos) ⭐ 159 | 🐛 67 | 🌐 TypeScript | 📅 2023-01-06 - Official GitHub.
+  * [eosrio/simpleos](https://github.com/eosrio/simpleos) ⭐ 159 | 🐛 68 | 🌐 TypeScript | 📅 2026-04-02 - Official GitHub.
 * [eoscanada/eosc](https://github.com/eoscanada/eosc) ⭐ 134 | 🐛 51 | 🌐 Go | 📅 2025-05-15
 * [EOS Toolkit](https://eostoolkit.io/)
   * [eostoolkit/eostoolkit](https://github.com/eostoolkit/eostoolkit) ⭐ 89 | 🐛 28 | 🌐 JavaScript | 📅 2022-12-14 - Official GitHub.

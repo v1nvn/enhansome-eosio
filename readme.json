@@ -30,7 +30,7 @@
                 "last_commit": "2022-07-27T00:17:50Z",
                 "owner": "EOSIO",
                 "repo": "eos",
-                "stars": 11217
+                "stars": 11218
               }
             }
           ],
@@ -42,7 +42,7 @@
             "last_commit": "2022-07-27T00:17:50Z",
             "owner": "EOSIO",
             "repo": "eos",
-            "stars": 11217
+            "stars": 11218
           }
         },
         {
@@ -135,7 +135,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2023-01-06T01:34:59Z",
+                "last_commit": "2026-04-02T02:15:01Z",
                 "owner": "eosrio",
                 "repo": "simpleos",
                 "stars": 159
@@ -147,7 +147,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2023-01-06T01:34:59Z",
+            "last_commit": "2026-04-02T02:15:01Z",
             "owner": "eosrio",
             "repo": "simpleos",
             "stars": 159
@@ -284,7 +284,7 @@
             "last_commit": "2022-07-27T00:17:50Z",
             "owner": "EOSIO",
             "repo": "eos",
-            "stars": 11217
+            "stars": 11218
           }
         },
         {
@@ -1514,7 +1514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-01T04:52:07.905Z",
+    "last_updated": "2026-04-02T04:35:10.008Z",
     "original_repository": "DanailMinchev/awesome-eosio",
     "source_repository": "v1nvn/enhansome-eosio",
     "source_repository_description": null,
