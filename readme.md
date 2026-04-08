@@ -201,7 +201,7 @@ All about development on EOSIO platform.
 
 #### Authentication and Wallet Signing libraries
 
-* [EOSIO/universal-authenticator-library](https://github.com/EOSIO/universal-authenticator-library) ⭐ 128 | 🐛 17 | 🌐 TypeScript | 📅 2023-04-30 - A library for allowing apps to easily use different auth providers.
+* [EOSIO/universal-authenticator-library](https://github.com/EOSIO/universal-authenticator-library) ⭐ 129 | 🐛 17 | 🌐 TypeScript | 📅 2023-04-30 - A library for allowing apps to easily use different auth providers.
   * [EOSIO Labs™ Release: The Universal Authenticator Library (UAL) — Increasing the Accessibility of Blockchain Applications](https://eos.io/news/eosio-labs-release-the-universal-authenticator-library-ual%e2%80%8a-%e2%80%8aincreasing-the-accessibility-of-blockchain-applications/) - Article.
 * [EOSIO/eosio-reference-ios-authenticator-app](https://github.com/EOSIO/eosio-reference-ios-authenticator-app) ⭐ 65 | 🐛 2 | 🌐 Swift | 📅 2022-09-21 - iOS reference app demonstrating inter-application transaction signing for EOSIO blockchain apps.
 * [greymass/anchor-link](https://github.com/greymass/anchor-link) ⭐ 53 | 🐛 8 | 🌐 TypeScript | 📅 2024-04-10 - Persistent, fast and secure signature provider for EOSIO chains built on top of EOSIO Signing Requests (EEP-7).
