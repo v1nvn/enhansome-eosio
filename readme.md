@@ -192,7 +192,7 @@ All about development on EOSIO platform.
   * [The Transit API: Connecting dApps & Signature Providers](https://medium.com/eos-new-york/the-transit-api-connecting-dapps-signature-providers-5d816c056f7f) - Article.
 * [EOSIO/eosio-swift](https://github.com/EOSIO/eosio-swift) ⚠️ Archived - Official Swift SDK.
   * [EOSIO SDK for Swift](https://eosio.github.io/eosio-swift/) - API documentation.
-* [greymass/eosio](https://github.com/greymass/eosio-core/) ⭐ 46 | 🐛 19 | 🌐 TypeScript | 📅 2026-02-20 - Strongly typed JavaScript library.
+* [greymass/eosio](https://github.com/greymass/eosio-core/) ⭐ 46 | 🐛 18 | 🌐 TypeScript | 📅 2026-04-12 - Strongly typed JavaScript library.
 * [React Native EOS](https://github.com/EvaCoop/react-native-eos) ⭐ 41 | 🐛 4 | 🌐 C | 📅 2021-12-01 - Native implementation of client to eos blockchain communication.
 * [memtrip/eosreach-android](https://github.com/memtrip/eosreach-android) ⭐ 36 | 🐛 1 | 🌐 Kotlin | 📅 2019-10-01 - Kotlin / Android library.
 * [EOSRPC API Wrapper for Elixir](https://github.com/cambiatus/eosrpc-elixir-wrapper) ⭐ 19 | 🐛 0 | 🌐 Elixir | 📅 2021-04-12 - Elixir library.
@@ -260,7 +260,7 @@ All about development on EOSIO platform.
 
 * [EOSIO/eosio.contracts](https://github.com/EOSIO/eosio.contracts) ⚠️ Archived - Smart contracts that provide some of the basic functions of the EOSIO blockchain.
 * [ping-eos](https://github.com/eosasia/ping-eos) ⭐ 83 | 🐛 6 | 🌐 JavaScript | 📅 2018-04-26 - Implementing ping between EOSIO / React.js.
-* [EOSEssentials/Scatter-Demos](https://github.com/EOSEssentials/Scatter-Demos) ⭐ 80 | 🐛 15 | 🌐 Vue | 📅 2022-12-06 - A set of integration demos using eosjs and Scatter.
+* [EOSEssentials/Scatter-Demos](https://github.com/EOSEssentials/Scatter-Demos) ⭐ 79 | 🐛 15 | 🌐 Vue | 📅 2022-12-06 - A set of integration demos using eosjs and Scatter.
 * [poorman.token](https://github.com/generEOS/poorman.token) ⭐ 45 | 🐛 4 | 🌐 C++ | 📅 2019-06-29 - EOSIO Token with burning and signup (for making the token RAM cheap).
 * [eosnewyork/erp](https://github.com/eosnewyork/erp) ⭐ 45 | 🐛 4 | 🌐 JavaScript | 📅 2021-05-07 - EOS Resource Planner.
 * [ipfs-eos-demo](https://github.com/wpuricz/ipfs-eos-demo) ⭐ 41 | 🐛 0 | 🌐 JavaScript | 📅 2018-06-20 - Demo saving text and images to ipfs and storing the hash on the EOSIO blockchain.
