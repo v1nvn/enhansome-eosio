@@ -219,7 +219,7 @@ All about development on EOSIO platform.
 
 [Intro blog by @cc32d9](https://cc32d9.medium.com/history-and-notifications-in-eosio-blockchain-8255194af93)
 
-* [Hyperion History API](https://github.com/eosrio/Hyperion-History-API) ⭐ 133 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-03 - Scalable Full History API Solution for EOSIO based blockchains.
+* [Hyperion History API](https://github.com/eosrio/Hyperion-History-API) ⭐ 134 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-03 - Scalable Full History API Solution for EOSIO based blockchains.
 * [EOSIO/history-tools](https://github.com/EOSIO/history-tools) ⚠️ Archived - Official EOSIO history API plugin.
 * [EOSIO Light API](https://github.com/cc32d9/eosio_light_api) ⭐ 60 | 🐛 10 | 🌐 Perl | 📅 2025-10-31 - Historic information about EOSIO blockchain accounts and token balances.
 
@@ -244,7 +244,7 @@ All about development on EOSIO platform.
 
 * [EOSIO/eosio.cdt](https://github.com/EOSIO/eosio.cdt) ⚠️ Archived - EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts.
 * [Octopus](https://github.com/pventuzelo/octopus) ⚠️ Archived - Security Analysis tool for WebAssembly and Blockchain Smart Contracts (BTC/ETH/NEO/EOS).
-* [Elliptic curve cryptography functions (ECC)](https://github.com/EOSIO/eosjs-ecc) ⭐ 287 | 🐛 46 | 🌐 JavaScript | 📅 2023-07-11 - Private Key, Public Key, Signature, AES, Encryption / Decryption.
+* [Elliptic curve cryptography functions (ECC)](https://github.com/EOSIO/eosjs-ecc) ⭐ 288 | 🐛 46 | 🌐 JavaScript | 📅 2023-07-11 - Private Key, Public Key, Signature, AES, Encryption / Decryption.
   * [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube.
 * [EOSIO Ethereum Virtual Machine (EVM)](https://github.com/jafri/eosio.evm) ⭐ 93 | 🐛 5 | 🌐 C++ | 📅 2024-10-29 - Ethereum Virtual Machine on EOSIO.
 * [EOSEssentials/EOSDrops](https://github.com/EOSEssentials/EOSDrops) ⭐ 56 | 🐛 0 | 🌐 JavaScript | 📅 2018-07-03 - Airdropping tool for the EOSIO blockchain.
@@ -275,7 +275,7 @@ All about development on EOSIO platform.
 
 ### Block Producer tools
 
-* [Patroneos](https://github.com/EOSIO/patroneos) ⭐ 46 | 🐛 2 | 🌐 Go | 📅 2022-09-21 - RPC Checkpoint for EOSIO nodes.
+* [Patroneos](https://github.com/EOSIO/patroneos) ⭐ 47 | 🐛 2 | 🌐 Go | 📅 2022-09-21 - RPC Checkpoint for EOSIO nodes.
 * [pete001/eos-bp-failover](https://github.com/pete001/eos-bp-failover) ⭐ 33 | 🐛 2 | 🌐 Shell | 📅 2019-01-22 - EOSIO Block Producer Failover Scripts.
 * [Cypherglass WINDSHIELD](https://github.com/cypherglassdotcom/windshield) ⭐ 19 | 🐛 14 | 🌐 Elm | 📅 2018-08-13 - A dashboard tool for monitoring internal Block Producer infrastructure.
 * [eosdetroit/nodesuite](https://github.com/eosdetroit/nodesuite) ⭐ 16 | 🐛 0 | 🌐 Jinja | 📅 2025-11-08 - Nodesuite is a tool to simplify the management and configuration of eosio nodes through the use of Ansible playbooks.
@@ -361,6 +361,6 @@ DApp resources.
 
 ### Other in DApps
 
-* [EveripediaNetwork/Everipedia](https://github.com/EveripediaNetwork/Everipedia) ⭐ 149 | 🐛 0 | 🌐 C++ | 📅 2023-02-28 - The Everipedia Network protocol.
+* [EveripediaNetwork/Everipedia](https://github.com/EveripediaNetwork/Everipedia) ⭐ 150 | 🐛 0 | 🌐 C++ | 📅 2023-02-28 - The Everipedia Network protocol.
 * [eosfilestore](https://github.com/grigio/eosfilestore) ⭐ 45 | 🐛 8 | 🌐 WebAssembly | 📅 2023-02-28 - Immutable, censorship resistant, cheap, file storage on EOSIO blockchain.
 * [kesar/decentwitter](https://github.com/kesar/decentwitter) ⭐ 37 | 🐛 20 | 🌐 WebAssembly | 📅 2022-12-08 - Decentralized Twitter on EOS.
