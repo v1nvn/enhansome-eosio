@@ -126,7 +126,7 @@ Various software and tools.
 * [EOS Network Monitor](http://eosnetworkmonitor.io/) - EOSIO Network Monitor by "CryptoLions". Useful for developers. Scatter friendly.
 * [eosflare](https://eosflare.io/) - Popular block explorer includes resource statistics, latest profile actions and statistics about "Top Name Bids" and "Top Voters".
 * [EOS Tracker](https://eostracker.io/) - Open Source block explorer includes producers information and account information.
-  * [EOSEssentials/EOSTracker](https://github.com/EOSEssentials/EOSTracker) ⭐ 164 | 🐛 17 | 🌐 TypeScript | 📅 2020-01-21 - Official GitHub.
+  * [EOSEssentials/EOSTracker](https://github.com/EOSEssentials/EOSTracker) ⭐ 165 | 🐛 17 | 🌐 TypeScript | 📅 2020-01-21 - Official GitHub.
 * [Bloks](https://bloks.io/) - Fast block explorer, can be used for voting. Includes information about block producers and tokens.
 
 <!--lint disable awesome-spell-check-->
