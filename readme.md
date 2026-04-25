@@ -99,14 +99,14 @@ Various software and tools.
 * [cleos](https://developers.eos.io/eosio-cleos/docs)
   * [EOSIO/eos](https://github.com/EOSIO/eos/tree/master/programs/cleos) ⚠️ Archived - Official GitHub (part of EOSIO).
 * [Anchor Wallet](https://greymass.com/en/anchor/)
-  * [greymass/anchor](https://github.com/greymass/anchor) ⭐ 589 | 🐛 260 | 🌐 JavaScript | 📅 2025-12-10 - Official GitHub.
+  * [greymass/anchor](https://github.com/greymass/anchor) ⭐ 588 | 🐛 260 | 🌐 JavaScript | 📅 2025-12-10 - Official GitHub.
 * [Scatter](https://get-scatter.com/)
-  * [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) ⭐ 497 | 🐛 149 | 🌐 JavaScript | 📅 2024-07-22 - Official GitHub.
+  * [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) ⭐ 496 | 🐛 149 | 🌐 JavaScript | 📅 2024-07-22 - Official GitHub.
 * [SimplEOS](https://eosrio.io/simpleos/)
   * [eosrio/simpleos](https://github.com/eosrio/simpleos) ⭐ 159 | 🐛 68 | 🌐 TypeScript | 📅 2026-04-22 - Official GitHub.
-* [eoscanada/eosc](https://github.com/eoscanada/eosc) ⭐ 134 | 🐛 51 | 🌐 Go | 📅 2025-05-15
+* [eoscanada/eosc](https://github.com/eoscanada/eosc) ⭐ 133 | 🐛 51 | 🌐 Go | 📅 2025-05-15
 * [EOS Toolkit](https://eostoolkit.io/)
-  * [eostoolkit/eostoolkit](https://github.com/eostoolkit/eostoolkit) ⭐ 89 | 🐛 28 | 🌐 JavaScript | 📅 2022-12-14 - Official GitHub.
+  * [eostoolkit/eostoolkit](https://github.com/eostoolkit/eostoolkit) ⭐ 88 | 🐛 28 | 🌐 JavaScript | 📅 2022-12-14 - Official GitHub.
 * [EOS Authority Web Wallet](https://eosauthority.com/dashboard)
 * [Wax Cloud Wallet](https://all-access.wax.io/)
 
@@ -126,7 +126,7 @@ Various software and tools.
 * [EOS Network Monitor](http://eosnetworkmonitor.io/) - EOSIO Network Monitor by "CryptoLions". Useful for developers. Scatter friendly.
 * [eosflare](https://eosflare.io/) - Popular block explorer includes resource statistics, latest profile actions and statistics about "Top Name Bids" and "Top Voters".
 * [EOS Tracker](https://eostracker.io/) - Open Source block explorer includes producers information and account information.
-  * [EOSEssentials/EOSTracker](https://github.com/EOSEssentials/EOSTracker) ⭐ 165 | 🐛 17 | 🌐 TypeScript | 📅 2020-01-21 - Official GitHub.
+  * [EOSEssentials/EOSTracker](https://github.com/EOSEssentials/EOSTracker) ⭐ 164 | 🐛 17 | 🌐 TypeScript | 📅 2020-01-21 - Official GitHub.
 * [Bloks](https://bloks.io/) - Fast block explorer, can be used for voting. Includes information about block producers and tokens.
 
 <!--lint disable awesome-spell-check-->
@@ -181,7 +181,7 @@ All about development on EOSIO platform.
 #### API libraries
 
 * [EOSIO/eosjs](https://github.com/EOSIO/eosjs) ⚠️ Archived - Official JavaScript SDK.
-* [EOS.IO Go API library](https://github.com/eoscanada/eos-go) ⭐ 556 | 🐛 22 | 🌐 Go | 📅 2024-10-29 - Go library.
+* [EOS.IO Go API library](https://github.com/eoscanada/eos-go) ⭐ 555 | 🐛 22 | 🌐 Go | 📅 2024-10-29 - Go library.
 * [EOS Java API Wrapper](https://github.com/EOSEssentials/eos-java-rpc-wrapper) ⭐ 163 | 🐛 12 | 🌐 Java | 📅 2020-10-13 - Java library.
 * [EOSIO/eosio-java](https://github.com/EOSIO/eosio-java) ⚠️ Archived - Official Java SDK.
   * [eosiojava API](https://eosio.github.io/eosio-java/) - API documentation.
@@ -219,23 +219,23 @@ All about development on EOSIO platform.
 
 [Intro blog by @cc32d9](https://cc32d9.medium.com/history-and-notifications-in-eosio-blockchain-8255194af93)
 
-* [Hyperion History API](https://github.com/eosrio/Hyperion-History-API) ⭐ 134 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-03 - Scalable Full History API Solution for EOSIO based blockchains.
+* [Hyperion History API](https://github.com/eosrio/Hyperion-History-API) ⭐ 133 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-03 - Scalable Full History API Solution for EOSIO based blockchains.
 * [EOSIO/history-tools](https://github.com/EOSIO/history-tools) ⚠️ Archived - Official EOSIO history API plugin.
-* [EOSIO Light API](https://github.com/cc32d9/eosio_light_api) ⭐ 60 | 🐛 10 | 🌐 Perl | 📅 2025-10-31 - Historic information about EOSIO blockchain accounts and token balances.
+* [EOSIO Light API](https://github.com/cc32d9/eosio_light_api) ⭐ 59 | 🐛 10 | 🌐 Perl | 📅 2025-10-31 - Historic information about EOSIO blockchain accounts and token balances.
 
 #### Testing
 
 * [EOSIO/eosio.contracts](https://github.com/EOSIO/eosio.contracts/tree/master/tests) ⚠️ Archived - Official C++ system contract test suite (notoriously difficult to use).
-* [tokenika/eosfactory](https://github.com/tokenika/eosfactory) ⭐ 237 | 🐛 12 | 🌐 Python | 📅 2023-03-28 - Python-based EOSIO smart-contract development & unit testing framework.
+* [tokenika/eosfactory](https://github.com/tokenika/eosfactory) ⭐ 236 | 🐛 12 | 🌐 Python | 📅 2023-03-28 - Python-based EOSIO smart-contract development & unit testing framework.
 * [EOSLIME](https://github.com/LimeChain/eoslime) ⭐ 35 | 🐛 8 | 🌐 JavaScript | 📅 2023-01-27 - Truffle like framework for development, deployment and testing on EOS blockchains.
-* [infeos](https://github.com/infiniteXLabs/infeos) ⭐ 31 | 🐛 6 | 🌐 JavaScript | 📅 2019-10-08 - JavaScript based framework for development, building, deploying and unit testing EOSIO dApps.
+* [infeos](https://github.com/infiniteXLabs/infeos) ⭐ 30 | 🐛 6 | 🌐 JavaScript | 📅 2019-10-08 - JavaScript based framework for development, building, deploying and unit testing EOSIO dApps.
 * [haderech/vert](https://github.com/haderech/vert) ⚠️ Archived - JavaScript EOS-VM emulation RunTime for WASM-based blockchain contracts. Run and test smart contracts.
 * [Hydra](https://docs.klevoya.com/hydra/about/getting-started/) - JavaScript framework for testing EOSIO smart contracts.
 
 #### Services
 
-* [Demux](https://github.com/EOSIO/demux-js) ⭐ 300 | 🐛 29 | 🌐 TypeScript | 📅 2023-07-18 - Demux is a backend infrastructure pattern for sourcing blockchain events to deterministically update queryable datastores and trigger side effects.
-* [DelphiOracle](https://github.com/eostitan/delphioracle) ⭐ 41 | 🐛 10 | 🌐 C++ | 📅 2023-10-26 - A multi-party source of truth, designed to provide the near-realtime price of the asset pairs to other smart contracts or to external users.
+* [Demux](https://github.com/EOSIO/demux-js) ⭐ 299 | 🐛 29 | 🌐 TypeScript | 📅 2023-07-18 - Demux is a backend infrastructure pattern for sourcing blockchain events to deterministically update queryable datastores and trigger side effects.
+* [DelphiOracle](https://github.com/eostitan/delphioracle) ⭐ 40 | 🐛 10 | 🌐 C++ | 📅 2023-10-26 - A multi-party source of truth, designed to provide the near-realtime price of the asset pairs to other smart contracts or to external users.
 * [Introducing Demux — Deterministic Databases Off-Chain Verified by the EOSIO Blockchain](https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017) - Article.
 * [Liquid Apps](https://docs.liquidapps.io) - Smart contract services vRAM, oracles, cron, IPFS and ICB.
 * [WAX Random Number Generator](https://developer.wax.io/es/tutorials/wax-rng)
@@ -247,7 +247,7 @@ All about development on EOSIO platform.
 * [Elliptic curve cryptography functions (ECC)](https://github.com/EOSIO/eosjs-ecc) ⭐ 288 | 🐛 46 | 🌐 JavaScript | 📅 2023-07-11 - Private Key, Public Key, Signature, AES, Encryption / Decryption.
   * [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube.
 * [EOSIO Ethereum Virtual Machine (EVM)](https://github.com/jafri/eosio.evm) ⭐ 93 | 🐛 5 | 🌐 C++ | 📅 2024-10-29 - Ethereum Virtual Machine on EOSIO.
-* [EOSEssentials/EOSDrops](https://github.com/EOSEssentials/EOSDrops) ⭐ 56 | 🐛 0 | 🌐 JavaScript | 📅 2018-07-03 - Airdropping tool for the EOSIO blockchain.
+* [EOSEssentials/EOSDrops](https://github.com/EOSEssentials/EOSDrops) ⭐ 55 | 🐛 0 | 🌐 JavaScript | 📅 2018-07-03 - Airdropping tool for the EOSIO blockchain.
 * [EOSIO/ricardian-template-toolkit](https://github.com/EOSIO/ricardian-template-toolkit) ⭐ 45 | 🐛 23 | 🌐 TypeScript | 📅 2023-07-11 - Renderer for the Ricardian Contract specification.
 * [Blanc](https://github.com/haderech/blanc) ⚠️ Archived - A toolchain for building WebAssembly-based blockchain contracts. Currently, Blanc supports EOSIO and CosmWasm (experimental).
 * [manh-vv/eosjs-name](https://github.com/manh-vv/eosjs-name) ⭐ 10 | 🐛 7 | 🌐 JavaScript | 📅 2026-02-06 - Convert an Eosio name to uint64 and back.
@@ -259,13 +259,13 @@ All about development on EOSIO platform.
 ### Code examples
 
 * [EOSIO/eosio.contracts](https://github.com/EOSIO/eosio.contracts) ⚠️ Archived - Smart contracts that provide some of the basic functions of the EOSIO blockchain.
-* [ping-eos](https://github.com/eosasia/ping-eos) ⭐ 83 | 🐛 6 | 🌐 JavaScript | 📅 2018-04-26 - Implementing ping between EOSIO / React.js.
+* [ping-eos](https://github.com/eosasia/ping-eos) ⭐ 82 | 🐛 6 | 🌐 JavaScript | 📅 2018-04-26 - Implementing ping between EOSIO / React.js.
 * [EOSEssentials/Scatter-Demos](https://github.com/EOSEssentials/Scatter-Demos) ⭐ 79 | 🐛 15 | 🌐 Vue | 📅 2022-12-06 - A set of integration demos using eosjs and Scatter.
-* [poorman.token](https://github.com/generEOS/poorman.token) ⭐ 45 | 🐛 4 | 🌐 C++ | 📅 2019-06-29 - EOSIO Token with burning and signup (for making the token RAM cheap).
-* [eosnewyork/erp](https://github.com/eosnewyork/erp) ⭐ 45 | 🐛 4 | 🌐 JavaScript | 📅 2021-05-07 - EOS Resource Planner.
+* [poorman.token](https://github.com/generEOS/poorman.token) ⭐ 44 | 🐛 4 | 🌐 C++ | 📅 2019-06-29 - EOSIO Token with burning and signup (for making the token RAM cheap).
+* [eosnewyork/erp](https://github.com/eosnewyork/erp) ⭐ 44 | 🐛 4 | 🌐 JavaScript | 📅 2021-05-07 - EOS Resource Planner.
 * [ipfs-eos-demo](https://github.com/wpuricz/ipfs-eos-demo) ⭐ 41 | 🐛 0 | 🌐 JavaScript | 📅 2018-06-20 - Demo saving text and images to ipfs and storing the hash on the EOSIO blockchain.
 * [EOSIO/eosio-java-android-example-app](https://github.com/EOSIO/eosio-java-android-example-app) ⚠️ Archived - Application demonstrating integration with EOSIO-based blockchains using EOSIO SDK for Java.
-* [Eosfinex Custody Smart Contract](https://github.com/bitfinexcom/eosfinex-custody-contract) ⭐ 18 | 🐛 0 | 🌐 C++ | 📅 2021-03-12 - Eosfinex exchange smart contract.
+* [Eosfinex Custody Smart Contract](https://github.com/bitfinexcom/eosfinex-custody-contract) ⭐ 17 | 🐛 0 | 🌐 C++ | 📅 2021-03-12 - Eosfinex exchange smart contract.
   * [Bitfinex blog post about eosfinex](https://www.bitfinex.com/posts/616) - Article.
 * [greymass/anchor-link-demo-multipass](https://github.com/greymass/anchor-link-demo-multipass) ⭐ 10 | 🐛 21 | 🌐 JavaScript | 📅 2023-03-04 - Example ReactJS application integrating greymass/anchor-link.
 * [theblockstalk/eosio-contracts](https://github.com/theblockstalk/eosio-contracts) ⭐ 8 | 🐛 4 | 🌐 JavaScript | 📅 2022-12-30 - Example smart contracts, dapps and system contract templates.
@@ -276,17 +276,17 @@ All about development on EOSIO platform.
 ### Block Producer tools
 
 * [Patroneos](https://github.com/EOSIO/patroneos) ⭐ 47 | 🐛 2 | 🌐 Go | 📅 2022-09-21 - RPC Checkpoint for EOSIO nodes.
-* [pete001/eos-bp-failover](https://github.com/pete001/eos-bp-failover) ⭐ 33 | 🐛 2 | 🌐 Shell | 📅 2019-01-22 - EOSIO Block Producer Failover Scripts.
-* [Cypherglass WINDSHIELD](https://github.com/cypherglassdotcom/windshield) ⭐ 19 | 🐛 14 | 🌐 Elm | 📅 2018-08-13 - A dashboard tool for monitoring internal Block Producer infrastructure.
+* [pete001/eos-bp-failover](https://github.com/pete001/eos-bp-failover) ⭐ 32 | 🐛 2 | 🌐 Shell | 📅 2019-01-22 - EOSIO Block Producer Failover Scripts.
+* [Cypherglass WINDSHIELD](https://github.com/cypherglassdotcom/windshield) ⭐ 18 | 🐛 14 | 🌐 Elm | 📅 2018-08-13 - A dashboard tool for monitoring internal Block Producer infrastructure.
 * [eosdetroit/nodesuite](https://github.com/eosdetroit/nodesuite) ⭐ 16 | 🐛 0 | 🌐 Jinja | 📅 2025-11-08 - Nodesuite is a tool to simplify the management and configuration of eosio nodes through the use of Ansible playbooks.
 * [GoogleCloudPlatform/eos-block-producer](https://github.com/GoogleCloudPlatform/eos-block-producer) ⚠️ Archived - Terraform module to create an EOS Block Producer (BP) node on Google Cloud Platform (GCP).
-* [eosdetroit/bp-playbook](https://github.com/eosdetroit/bp-playbook) ⭐ 8 | 🐛 0 | 🌐 Shell | 📅 2018-06-02 - A set of playbooks to make managing EOS.IO nodes easier.
+* [eosdetroit/bp-playbook](https://github.com/eosdetroit/bp-playbook) ⭐ 7 | 🐛 0 | 🌐 Shell | 📅 2018-06-02 - A set of playbooks to make managing EOS.IO nodes easier.
 * [eoseoul/eos-ramcost](https://github.com/eoseoul/eos-ramcost) ⭐ 6 | 🐛 0 | 🌐 C++ | 📅 2022-03-13 - Adjusting supply of a token and connector balance of bancor during final phase of boot.
 
 ### Other in Developers
 
 * [clsdk](https://github.com/gofractally/Eden/releases?q=clsdk\&expanded=true) ⭐ 51 | 🐛 84 | 🌐 C++ | 📅 2023-09-19 - EOSIO smart contract C++ testing framework including in-contract debugging during wasm execution with VS code.
-* [OracleChain/EOSBenchTool](https://github.com/OracleChain/EOSBenchTool) ⭐ 35 | 🐛 0 | 🌐 C++ | 📅 2018-09-27 - A client side tool for EOS performance testing.
+* [OracleChain/EOSBenchTool](https://github.com/OracleChain/EOSBenchTool) ⭐ 34 | 🐛 0 | 🌐 C++ | 📅 2018-09-27 - A client side tool for EOS performance testing.
 * [cleos-auto-completion](https://github.com/hexlant/cleos-auto-completion) ⭐ 30 | 🐛 0 | 🌐 Shell | 📅 2019-12-15 - Command auto-completion for EOSIO cleos.
 * [breakstring/savemyeosram](https://github.com/breakstring/savemyeosram) ⚠️ Archived - Saving RAM on EOS.
 * [Community Developer Tools](https://developers.eos.io/welcome/latest/community-developer-tools/index) - Official EOSIO "Community Developer Tools" page.
@@ -353,7 +353,7 @@ DApp resources.
 ### Games
 
 * [MonsterEOS](https://monstereos.io/)
-  * [MonsterEOS/monstereos](https://github.com/MonsterEOS/monstereos) ⭐ 184 | 🐛 44 | 🌐 TypeScript | 📅 2018-11-26 - Official GitHub.
+  * [MonsterEOS/monstereos](https://github.com/MonsterEOS/monstereos) ⭐ 183 | 🐛 44 | 🌐 TypeScript | 📅 2018-11-26 - Official GitHub.
 * [King Of EOS](https://kingofeos.com/)
   * [MrToph/KingOfEos](https://github.com/MrToph/KingOfEos) ⭐ 33 | 🐛 0 | 🌐 JavaScript | 📅 2018-09-05 - Official GitHub.
   * [Introducing King of EOS](https://cmichel.io/introducing-king-of-eos) - Article.
