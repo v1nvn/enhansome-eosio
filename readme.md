@@ -106,7 +106,7 @@ Various software and tools.
   * [eosrio/simpleos](https://github.com/eosrio/simpleos) ⭐ 159 | 🐛 68 | 🌐 TypeScript | 📅 2026-04-22 - Official GitHub.
 * [eoscanada/eosc](https://github.com/eoscanada/eosc) ⭐ 133 | 🐛 51 | 🌐 Go | 📅 2025-05-15
 * [EOS Toolkit](https://eostoolkit.io/)
-  * [eostoolkit/eostoolkit](https://github.com/eostoolkit/eostoolkit) ⭐ 88 | 🐛 28 | 🌐 JavaScript | 📅 2022-12-14 - Official GitHub.
+  * [eostoolkit/eostoolkit](https://github.com/eostoolkit/eostoolkit) ⚠️ Archived - Official GitHub.
 * [EOS Authority Web Wallet](https://eosauthority.com/dashboard)
 * [Wax Cloud Wallet](https://all-access.wax.io/)
 
